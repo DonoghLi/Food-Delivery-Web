@@ -2,7 +2,7 @@
 food delivery application and just for study purpose.
 
 
-demo: [donofood](https://donoghli.github.io/donofood/.)
+demo: [donofood](https://donoghli.github.io/Food-Delivery-Web/).
 
 Guide:
 1. This website is about food delivery service.
